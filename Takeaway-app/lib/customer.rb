@@ -1,4 +1,4 @@
-require 'take_away'
+require 'take_away.rb'
 
 class Customer
 	attr_reader :name,:surname,:phone

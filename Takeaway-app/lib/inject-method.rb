@@ -11,6 +11,6 @@ class Array
 	end
 end
 
- a = [1,2,3,4]
+ a = ['1','2','3','4']
 a.my_inject{|result,item| result + item}
 # 	
